@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "PhishGuard",
+  "version": "1.0",
+  "description": "Detects phishing URLs using AI",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
